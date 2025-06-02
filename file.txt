@@ -1,2 +1,6 @@
 Line 1
+
 Line 2 from master
+
+
+Line 2 from feature
